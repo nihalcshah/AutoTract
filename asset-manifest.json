@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/autotract/static/css/main.e5d6e86d.chunk.css",
-    "main.js": "/autotract/static/js/main.076e883b.chunk.js",
-    "main.js.map": "/autotract/static/js/main.076e883b.chunk.js.map",
+    "main.css": "/autotract/static/css/main.c25f7a78.chunk.css",
+    "main.js": "/autotract/static/js/main.ce9e0fd8.chunk.js",
+    "main.js.map": "/autotract/static/js/main.ce9e0fd8.chunk.js.map",
     "runtime-main.js": "/autotract/static/js/runtime-main.f2f31c47.js",
     "runtime-main.js.map": "/autotract/static/js/runtime-main.f2f31c47.js.map",
     "static/js/2.0d2c8490.chunk.js": "/autotract/static/js/2.0d2c8490.chunk.js",
     "static/js/2.0d2c8490.chunk.js.map": "/autotract/static/js/2.0d2c8490.chunk.js.map",
     "index.html": "/autotract/index.html",
-    "static/css/main.e5d6e86d.chunk.css.map": "/autotract/static/css/main.e5d6e86d.chunk.css.map",
+    "static/css/main.c25f7a78.chunk.css.map": "/autotract/static/css/main.c25f7a78.chunk.css.map",
     "static/js/2.0d2c8490.chunk.js.LICENSE.txt": "/autotract/static/js/2.0d2c8490.chunk.js.LICENSE.txt",
+    "static/media/button.6b3755ce.png": "/autotract/static/media/button.6b3755ce.png",
     "static/media/Home.css": "/autotract/static/media/oh.1b6a88b3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2f31c47.js",
     "static/js/2.0d2c8490.chunk.js",
-    "static/css/main.e5d6e86d.chunk.css",
-    "static/js/main.076e883b.chunk.js"
+    "static/css/main.c25f7a78.chunk.css",
+    "static/js/main.ce9e0fd8.chunk.js"
   ]
 }
